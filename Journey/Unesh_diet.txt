@@ -1,0 +1,5 @@
+#diet plan
+Morning(6:00)=egg , chana,mango juice
+lunch(10:00)=rice,dal,green vegetables
+super(4:00)=bread,egg,protein shake
+dinner(8:00)=roti,chicken,salad

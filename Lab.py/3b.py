@@ -1,0 +1,19 @@
+r=int(input("Enter the no of rows:"))
+sp=r*2-2
+i=1
+while(i<=r):
+    j=1
+    while(j<=sp):
+        print(end=" ")
+        j=j+1
+    ln=1
+    while(ln<=1):
+        print(ln,end=" ")
+        ln=ln+1
+    rn=i-1
+    while(rn>=1):
+        print(rn,end=" ")
+        rn=rn-1
+    sp=sp-2
+    i=i+1
+    print("\n")

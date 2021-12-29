@@ -1,0 +1,8 @@
+a=int(input())
+print("convert the decimal into others number system:")
+d=oct(a)
+c=hex(a)
+e=bin(a)
+print('Decimal number=',a,"\nbinary number=",e)
+print("octal number=",d)
+print("hexadecimal number=",c)

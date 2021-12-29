@@ -1,0 +1,1 @@
+'times from string 2')
